@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\bin\Debug\AracKiralamaVeTakip.exe.config
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\bin\Debug\AracKiralamaVeTakip.exe
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\bin\Debug\AracKiralamaVeTakip.pdb
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.FormAracYonetimi.resources
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.FormKiraSozlesmesi.resources
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.FormMusteriKaydi.resources
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.FormRaporlama.resources
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.MainForm.resources
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.Properties.Resources.resources
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.exe
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.pdb
+C:\Users\Administrator\source\repos\AracKiralamaVeTakip\AracKiralamaVeTakip\obj\Debug\AracKiralamaVeTakip.exe.config

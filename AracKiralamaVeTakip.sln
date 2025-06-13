@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracKiralamaVeTakip", "AracKiralamaVeTakip\AracKiralamaVeTakip.csproj", "{4BF7DADD-1C4D-47E9-9454-6E14ADD74A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF7DADD-1C4D-47E9-9454-6E14ADD74A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF7DADD-1C4D-47E9-9454-6E14ADD74A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF7DADD-1C4D-47E9-9454-6E14ADD74A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF7DADD-1C4D-47E9-9454-6E14ADD74A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F0AAB3-AD76-488B-A7F2-4DD987B6BDF6}
+	EndGlobalSection
+EndGlobal
